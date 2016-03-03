@@ -1,2 +1,2 @@
 # hello-world
-For practice
+This repository was made as part of the tutorial to learn GitHub
